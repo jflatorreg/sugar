@@ -1,7 +1,7 @@
-﻿sugar
-=====
+sugar.oper
+==========
 
-.. automodule:: sugar
+.. automodule:: sugar.oper
 
    
    
@@ -26,6 +26,6 @@
    :template: custom-module-template.rst
    :recursive:
 
-   sugar.impre
-   sugar.oper
+   sugar.oper.mult
+   sugar.oper.sums
 

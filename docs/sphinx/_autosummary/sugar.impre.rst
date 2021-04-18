@@ -1,7 +1,7 @@
-﻿sugar
-=====
+sugar.impre
+===========
 
-.. automodule:: sugar
+.. automodule:: sugar.impre
 
    
    
@@ -26,6 +26,5 @@
    :template: custom-module-template.rst
    :recursive:
 
-   sugar.impre
-   sugar.oper
+   sugar.impre.impremsj
 
